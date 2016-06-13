@@ -1,7 +1,7 @@
-" Use the Solarized Dark theme
+" Use the Base16 Tomorrow Dark theme
 set background=dark
-colorscheme solarized
-let g:solarized_termtrans=1
+let base16colorspace=256
+colorscheme base16-tomorrow
 
 " Make Vim more useful
 set nocompatible
